@@ -29,9 +29,9 @@
 <h2 align='center'>Projetos em destaque</h1>
 <p align='center'>
   <a href="https://github.com/gom-mota/beework">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gom-mota&repo=beework&theme=slateorange" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gom-mota&repo=beework&theme=dark" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/gom-mota/portfolio-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gom-mota&repo=portfolio-dev&theme=prussian" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gom-mota&repo=portfolio-dev&theme=dark" />
   </a>
 </p>

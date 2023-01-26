@@ -22,9 +22,9 @@
   </a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gom-mota&layout=compact&theme=dark"/>
-</p>
+</p> -->
 
 <!-- <h2 align='center'>Projetos em destaque</h1>
 <p align='center'>

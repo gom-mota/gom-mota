@@ -1,6 +1,9 @@
 <h2>Gabriel Mota</h2>
 
-_Frontend developer at [Seidor](https://www.seidor.com/)_
+<div id='work_on'>
+    <i>Frontend developer at <a href='https://www.seidor.com/' target="_blank">Seidor</a></i>
+</div>
+<br />
 
 ```javascript
 const skills = {

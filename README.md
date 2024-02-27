@@ -1,4 +1,4 @@
-<h2>Gabriel Mota</h2>
+<h2 id='name'>Gabriel Mota</h2>
 
 <div id='work_on'>
     <i>Frontend developer at <a href='https://www.seidor.com/' target="_blank">Seidor</a></i>
